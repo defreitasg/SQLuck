@@ -1,9 +1,6 @@
 
 /*
 ** SQLuck - Ferramenta utilizada para encontrar sites vulneráveis a SQL Injection.
-** Autor: Constantine - https://github.com/jessesilva
-** P0cL4bs Team - https://github.com/P0cL4bs
-** Data: 04/09/2015.
 ** Compilar: gcc --std=c99 -lpthread sqluck.c -o sqluck ; ./sqluck
 */
 
