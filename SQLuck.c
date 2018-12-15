@@ -1,6 +1,6 @@
 
 /*
-** SQLuck - Ferramenta utilizada para encontrar sites vulner·veis a SQL Injection.
+** SQLuck - Ferramenta utilizada para encontrar sites vulner√°veis a SQL Injection.
 ** Autor: Constantine - https://github.com/jessesilva
 ** P0cL4bs Team - https://github.com/P0cL4bs
 ** Data: 04/09/2015.
@@ -486,15 +486,5 @@ static http_request_t *http_request_free(http_request_t *request) {
 }
 
 static void show_banner(void) {
-say ("\n\
-   ____    _____   __                      __         \n\
-  /\\  _`\\ /\\  __`\\/\\ \\                    /\\ \\     v1.0\n\
-  \\ \\,\\L\\_\\ \\ \\/\\ \\ \\ \\      __  __    ___\\ \\ \\/'\\    \n\
-   \\/_\\__ \\\\ \\ \\ \\ \\ \\ \\  __/\\ \\/\\ \\  /'___\\ \\ , <    \n\
-     /\\ \\L\\ \\ \\ \\\\'\\\\ \\ \\L\\ \\ \\ \\_\\ \\/\\ \\__/\\ \\ \\\\`\\  \n\
-     \\ `\\____\\ \\___\\_\\ \\____/\\ \\____/\\ \\____\\\\ \\_\\ \\_\\\n\
-      \\/_____/\\/__//_/\\/___/  \\/___/  \\/____/ \\/_/\\/_/\n\
-                                                      \n\
-                     C0d3d by C0nsT4nt1n3\n\
-                    Gr3aTz f0r Und3rgr0Und\n\n");
+say ("haha")
 }
